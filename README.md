@@ -1,2 +1,2 @@
 # ToastSite
-Clone repo `git clone --recurse-submodules https://github.com/ToastWithCheeze/toastwithcheeze.github.io.git`
+Clone repo `git clone https://github.com/ToastWithCheeze/toastwithcheeze.github.io.git`
